@@ -1,7 +1,7 @@
 <div align="center">
 <h1>VoxVoice AI Assistant App</h1>
 <p>
-This Voice AI Assistant is a smart, voice-activated application designed to make everyday tasks easier and more efficient. Powered by speech recognition, the assistant listens to user commands, understands context, and responds with relevant information or actions. From answering questions and setting reminders to controlling smart devices and providing personalized recommendations, this app serves as a versatile, hands-free companion.
+VoxVoice AI Assistant is a smart, voice-activated application designed to make everyday tasks easier and more efficient. Powered by speech recognition, the assistant listens to user commands, understands context, and responds with relevant information or actions. From answering questions and setting reminders to controlling smart devices and providing personalized recommendations, this app serves as a versatile, hands-free companion.
 With a user-friendly interface and seamless integration, the VoiceVox AI Assistant is perfect for those looking to streamline their day-to-day activities with simple voice commands.
 </p>
 
