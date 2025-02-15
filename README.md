@@ -12,21 +12,18 @@ With a user-friendly interface and seamless integration, the VoiceVox AI Assista
 <h1>Onboarding Screen One</h1>
 <img src="onboarding.png" alt="Home Banner" width="100%" />
 
-
 <h1></h1>
 <h1>Onboarding Screen Two</h1>
-
 <img src="onboarding3.png" alt="Home Banner" width="100%" />
 
 <h1></h1>
-<h2>Authentication: Clerk</h2>
+<h2>Chat Screen</h2>
 <img src="micro.png" alt="signup page" width="100%" />
 
 <h1></h1>
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
