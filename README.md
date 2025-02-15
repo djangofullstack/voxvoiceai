@@ -1,5 +1,3 @@
-# voxvoiceai
-
 # VoxVoice Ai
 
 <h1>VoxVoice e AI Assistant Application Project Summary</h1>
