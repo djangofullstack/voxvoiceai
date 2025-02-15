@@ -15,11 +15,7 @@ With a user-friendly interface and seamless integration, the VoiceVox AI Assista
 
 <h1></h1>
 <h1>Onboarding Screen Two</h1>
-<img src="onboarding1.png" alt="Home Banner" width="100%" />
 
-<h1></h1>
-<h1></h1>
-<h1>Onboarding Screen Three</h1>
 <img src="onboarding3.png" alt="Home Banner" width="100%" />
 
 <h1></h1>
