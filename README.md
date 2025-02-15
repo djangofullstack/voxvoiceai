@@ -11,9 +11,11 @@ With a user-friendly interface and seamless integration, the VoiceVox AI Assista
 <img src="onboarding.png" alt="Home Banner" width="50%" />
 
 <h1></h1>
+<h1></h1>
 <h1>Onboarding Screen Two</h1>
 <img src="onboarding3.png" alt="Home Banner" width="50%" />
 
+<h1></h1>
 <h1></h1>
 <h2>Chat Screen</h2>
 <img src="micro.png" alt="signup page" width="50%" />
